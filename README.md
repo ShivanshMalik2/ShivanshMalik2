@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ShivanshMalik2
-- 👀 I’m interested in Web Hacking (Security)
-- 🌱 I’m currently learning Web hacking :)
-- 📫 shivxtar@gmail.com , Shivansh#9779
+# Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!---
-ShivanshMalik2/ShivanshMalik2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Shivansh Malik and im a School Student (8th). My main goal is ethical hacking but i surely do coding, Im still learning both ethical hacking and coding so i won't say im good at it till now 😅.
+
+[![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshmalik2)](https://github.com/anuraghazra/github-readme-stats)
+
